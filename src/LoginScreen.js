@@ -4,8 +4,8 @@ import { Button } from 'react-native-elements'
 import { authorize } from 'react-native-app-auth'
 
 const config = {
-  clientId:'c00d880168abfa5409b69c9267989a60019d5757fcf5095c1bdc16513f48dd49',
-  clientSecret: '726ed128be992068be3ea6579d5ef49c47eb78dc82366ff20dc1fc89c472bef2',
+  clientId:'',
+  clientSecret: '',
   redirectUrl: 'learn-auth://learn/callback',
   scopes: [],
   serviceConfiguration: {
