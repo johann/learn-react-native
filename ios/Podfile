@@ -1,0 +1,8 @@
+platform :ios, '11.0'
+
+target 'Learn' do
+ pod 'AppAuth', '>= 0.94'
+  pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
+
+end
+
